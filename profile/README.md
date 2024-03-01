@@ -22,7 +22,7 @@
 - 发起投票
 - 发布你的想法
 
-但在开始之前，我们希望你可以阅读[万能墙公约]([auhsbiofbaiys](https://github.com/CQML-Multiuse-Wall/.github/blob/main/rule.md)https://github.com/CQML-Multiuse-Wall/.github/blob/main/rule.md)并遵守它，让我们共同守护好这片白墙！
+但在开始之前，我们希望你可以阅读[万能墙公约](https://github.com/CQML-Multiuse-Wall/.github/blob/main/rule.md)并遵守它，让我们共同守护好这片白墙！
 
 ---
 
